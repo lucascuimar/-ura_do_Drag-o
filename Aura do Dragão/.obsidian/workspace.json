@@ -13,30 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personagens/Hermak.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe7f8ef597801a9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personagens/Caradelas, um bardo chamado maciota.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d60a23a33b3b643",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Personagens/Sarek.md",
                 "mode": "source",
                 "source": false
@@ -47,16 +23,19 @@
             "id": "b8ab0fdb903bbc83",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Personagens/Caradelas, um bardo chamado maciota.md",
-                "mode": "source",
-                "source": false
+                "file": "Personagens/A personagens.canvas",
+                "viewState": {
+                  "x": 279,
+                  "y": -154,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personagens/Caradelas, um bardo chamado maciota.md",
+                "file": "Personagens/Sarek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personagens/Caradelas, um bardo chamado maciota.md",
+                "file": "Personagens/Sarek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personagens/Caradelas, um bardo chamado maciota.md"
+                "file": "Personagens/Sarek.md"
               }
             }
           }
@@ -183,13 +162,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b8ab0fdb903bbc83",
+  "active": "9b06e71f4f1bdcc7",
   "lastOpenFiles": [
-    "Personagens/Sem título.canvas",
-    "Personagens/Talarim.md",
-    "Personagens/Sarek.md",
     "Personagens/Caradelas, um bardo chamado maciota.md",
     "Personagens/Hermak.md",
+    "Personagens/A personagens.canvas",
+    "Personagens/Sarek.md",
+    "Z Imagem/Imagem do WhatsApp de 2023-02-12 à(s) 13.38.16.jpg",
+    "Personagens/Talarim.md",
     "Universo.md"
   ]
 }
