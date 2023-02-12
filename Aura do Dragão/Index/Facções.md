@@ -2,3 +2,5 @@
 [[Culto do monolho]]
 [[Pé de Pedra]]
 [[Red Drago (Guilda)]]
+[[Cachorro leão]]
+[[Piratas Naltilus]]
