@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bdb84b2c77572e69",
+            "id": "52193091827b9e4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Facções/Red Drago (Guilda).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Facções/Red Drago (Guilda).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Facções/Red Drago (Guilda).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Facções/Red Drago (Guilda).md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bdb84b2c77572e69",
+  "active": "52193091827b9e4d",
   "lastOpenFiles": [
-    "Index.md",
+    "Index/Facções.md",
+    "Facções/Red Drago (Guilda).md",
     "Index/Itens mágicos.md",
+    "Index.md",
     "Linha do tempo/Linha do tempo.md",
     "Index/Personagens.md",
     "Index/Deuses.md",
-    "Index/Facções.md",
     "Personagens/Talarin, A rainha.md",
     "Personagens/Sarek, O come carne.md",
-    "Facções/Pé de Pedra.md",
-    "Deuses/Null, Deus da morte e não morte.md"
+    "Facções/Pé de Pedra.md"
   ]
 }
