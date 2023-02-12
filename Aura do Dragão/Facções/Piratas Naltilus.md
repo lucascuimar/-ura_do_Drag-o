@@ -9,7 +9,7 @@ Comandado por Cephalossk, um devorador de mente sobrevivente de um ataque de Git
 ## Membros
 
 - Cephalossk, O capitão
-- Kaida, O imadiato
+- [[Kaida, O imadiato]]
 - Genus, Lacaio de Kaida
 - Soife, O balista
 - Dagon

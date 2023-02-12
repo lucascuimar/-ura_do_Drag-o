@@ -11,8 +11,12 @@
             "id": "52193091827b9e4d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Index.md"
+              }
             }
           }
         ]
@@ -140,15 +148,15 @@
   },
   "active": "52193091827b9e4d",
   "lastOpenFiles": [
-    "Index.md",
-    "NPC.md",
-    "Index/NPC.md",
-    "Facções/Cachorro leão.md",
-    "Index/Facções.md",
-    "NPC/Cachorro leão/Drop.md",
-    "Facções/Adagas Mecanicas.md",
-    "Personagens/Hermak.md",
-    "NPC/Cachorro leão/Mindart, o necromante.md",
-    "NPC/Cachorro leão/Senhora Nupalie.md"
+    "Z Imagem/Pasted image 20230212182615.png",
+    "Z Imagem/Pasted image 20230212182843.png",
+    "Z Imagem/Pasted image 20230212183540.png",
+    "Z Imagem/Pasted image 20230212183753.png",
+    "Z Imagem/Pasted image 20230212184404.png",
+    "Z Imagem/Pasted image 20230212184654.png",
+    "Z Imagem/Pasted image 20230212184532.png",
+    "Z Imagem/Rise of Nations_ Rise of Legends (Concept).jpeg",
+    "Z Imagem/Romance Proibido.jpeg",
+    "Z Imagem/The Chronicler dwarf - character design, Tomek Larek.jpeg"
   ]
 }

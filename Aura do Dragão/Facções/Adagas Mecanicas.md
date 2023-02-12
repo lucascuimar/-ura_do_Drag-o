@@ -10,11 +10,17 @@ Os adagas sugem em um momento de oportunidade para o mundo, tendo lugar agora ma
 
 ## Membros
 
-- Asher, o supremo lider 
-- Halia Thronton, Dama da dor
-- Dr. Meet, O Alquimista
-- O Arquivista
-- A Forja de guerra
-- Soldado de ferro
+- [[Asher, o supremo lider ]]
+- [[Halia Thronton, Dama da dor]]
+- [[Dr. Meet, O Alquimista]]
+- [[O Arquivista]]
+- [[O Forja de guerra]]
+- [[Soldado de ferro]]
 - Aranhas de aço
 - Cidadela
+
+## Energia
+
+Uma de suas fontes de energia para seus maquinarios são criaturas magicas independente de sua natureza. 
+
+![[Mad Scientist.jpeg | 400]]

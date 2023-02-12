@@ -9,7 +9,10 @@ Vermelho e preto
 
 ## Membros Ativos
 
-Alagar, O Grande.
-
-Skaduchi, O sábio.
+- [[Alagar, O Grande]]
+- [[Skaduchi, O sábio]]
+- [[Hermak]]
+- [[Sarek, O come carne]]
+- [[Caradelas, um bardo chamado maciota]]
+- [[Talarin, A rainha]]
 

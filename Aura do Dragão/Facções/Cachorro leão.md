@@ -13,7 +13,7 @@ Guilda criada por um humano, um elfo, um halfling e um meio-orc. O sucesso foi s
 - [[Mindart, o necromante]]
 - [[Henk, o barbato]]
 - [[milo bom barril, o ladino]]
-- [[Drop]]
+- [[Droop]]
 - [[Senhora Nupalie]]
 - [[Farlila]]
 - [[Drock]]
