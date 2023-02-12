@@ -9,9 +9,12 @@ Guilda criada por um humano, um elfo, um halfling e um meio-orc. O sucesso foi s
 
 ## Membros
 
-- Ivor Starag
-- drop
-- Senhora Nupalie
-- Farlila
-- Drock
+- [[Ivor Starag, o warlock]]
+- [[Mindart, o necromante]]
+- [[Henk, o barbato]]
+- [[milo bom barril, o ladino]]
+- [[Drop]]
+- [[Senhora Nupalie]]
+- [[Farlila]]
+- [[Drock]]
 

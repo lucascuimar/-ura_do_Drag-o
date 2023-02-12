@@ -11,28 +11,11 @@
             "id": "52193091827b9e4d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Facções/Cachorro leão.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8996998e59dfaed2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Facções/Cachorro leão.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Facções/Cachorro leão.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Facções/Cachorro leão.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Facções/Cachorro leão.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,17 +138,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8996998e59dfaed2",
+  "active": "52193091827b9e4d",
   "lastOpenFiles": [
-    "Facções/zzzzz faccao.md",
-    "Facções/Piratas Naltilus.md",
-    "Facções/Adagas Mecanicas.md",
-    "Index/Personagens.md",
     "Index.md",
+    "NPC.md",
+    "Index/NPC.md",
     "Facções/Cachorro leão.md",
-    "Facções/Culto do monolho.md",
     "Index/Facções.md",
-    "Facções/Red Drago (Guilda).md",
-    "Index/Itens mágicos.md"
+    "NPC/Cachorro leão/Drop.md",
+    "Facções/Adagas Mecanicas.md",
+    "Personagens/Hermak.md",
+    "NPC/Cachorro leão/Mindart, o necromante.md",
+    "NPC/Cachorro leão/Senhora Nupalie.md"
   ]
 }
