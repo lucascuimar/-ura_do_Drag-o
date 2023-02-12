@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "5daa2571daf5e800",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6e4115338fb72e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b06e71f4f1bdcc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personagens/Hermak.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe7f8ef597801a9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personagens/Caradelas, um bardo chamado maciota.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d60a23a33b3b643",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personagens/Sarek.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8ab0fdb903bbc83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personagens/Caradelas, um bardo chamado maciota.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae44b3b1bbdc98f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "28a4d1862157e431",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1821e7f75af32656",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa0f44d26d3f7187",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d88d67188b3e4236",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e18c4e535ea379c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "84a6b7912b79bfd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94815fb621af4aae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Personagens/Caradelas, um bardo chamado maciota.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "37fd4c2e6bac2db2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Personagens/Caradelas, um bardo chamado maciota.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e336d3efdc94659d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0389bd643931a657",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Personagens/Caradelas, um bardo chamado maciota.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "b8ab0fdb903bbc83",
+  "lastOpenFiles": [
+    "Personagens/Sem título.canvas",
+    "Personagens/Talarim.md",
+    "Personagens/Sarek.md",
+    "Personagens/Caradelas, um bardo chamado maciota.md",
+    "Personagens/Hermak.md",
+    "Universo.md"
+  ]
+}
