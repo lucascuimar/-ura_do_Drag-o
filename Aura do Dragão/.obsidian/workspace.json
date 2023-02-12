@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a6e4115338fb72e8",
+        "id": "6a0ab5d44afbaf2f",
         "type": "tabs",
         "children": [
           {
-            "id": "19f6c6accd5107ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Facções/Adagas Mecanicas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f59e988c38ecc65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Facções/Culto do monolho.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f9ad1eed79a7439",
+            "id": "bdb84b2c77572e69",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +91,7 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -154,8 +129,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,17 +146,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3f9ad1eed79a7439",
+  "active": "bdb84b2c77572e69",
   "lastOpenFiles": [
-    "Personagens/Caradelas, um bardo chamado maciota.md",
     "Index.md",
-    "Facções/Adagas Mecanicas.md",
-    "Facções/Culto do monolho.md",
-    "Sem título.md",
-    "Facções/Pé de Pedra.md",
-    "Sem título 1.md",
-    "Personagens/A personagens.canvas",
+    "Index/Itens mágicos.md",
+    "Linha do tempo/Linha do tempo.md",
+    "Index/Personagens.md",
+    "Index/Deuses.md",
+    "Index/Facções.md",
+    "Personagens/Talarin, A rainha.md",
     "Personagens/Sarek, O come carne.md",
-    "Personagens/Hermak.md"
+    "Facções/Pé de Pedra.md",
+    "Deuses/Null, Deus da morte e não morte.md"
   ]
 }

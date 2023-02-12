@@ -1,6 +1,6 @@
 ## Imagem
 
-![[Imagem do WhatsApp de 2023-02-12 à(s) 13.52.46.jpg]]
+![[Imagem do WhatsApp de 2023-02-12 à(s) 13.52.46.jpg | 200]]
 
 
 ## Lore

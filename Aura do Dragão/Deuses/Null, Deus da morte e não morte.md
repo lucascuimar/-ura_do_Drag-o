@@ -1,0 +1,7 @@
+Null, deus da morte e da não-morte, é um ser antigo e poderoso que tem uma história sombria e misteriosa. Ele foi originalmente um dragão negro formidável que voava pelos céus do mundo, causando destruição e terror onde quer que fosse. No entanto, seu poder era tão grande que ele acabou se tornando um deus, um ser divino que governava sobre a morte e tudo o que ela significava.
+
+Mas Null não era um deus bondoso ou misericordioso. Ele era cruel e insensível, desfrutando da dor e sofrimento dos seres vivos. Ele governava sobre uma dimensão onde as almas dos mortos eram condenadas a viver eternamente, sofrendo pelas más ações cometidas em vida.
+
+Agora, cultistas yuan-ti estão invocando Null de volta ao mundo dos vivos, com o objetivo de usar seu poder para controlar a morte e o destino das almas. Eles acreditam que, com Null a seu lado, eles serão imortais e invencíveis, capazes de governar sobre o mundo e seus habitantes.
+
+Mas os aventureiros devem ter cuidado, pois invocar Null é perigoso e pode ter consequências sombrias. Se os cultistas yuan-ti conseguirem trazê-lo de volta, a morte e a destruição se espalharão pelo mundo, e os aventureiros deverão enfrentar o deus da morte e da não-morte para proteger a vida e a existência dos seres vivos.

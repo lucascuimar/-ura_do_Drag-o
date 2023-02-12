@@ -1,15 +1,12 @@
-# Sumario
+## [[Personagens]]
 
-## 1. Personagens
+## [[Facções]]
 
-[[Caradelas, um bardo chamado maciota]]
-[[Sarek, O come carne]]
-[[Talarin, A rainha]]
-[[Hermak]]
+## [[Deuses]]
 
-## 2. Facções
+## [[Linha do tempo]]
 
-[[Adagas Mecanicas]]
-[[Culto do monolho]]
-[[Pé de Pedra]]
+## [[Itens mágicos]]
+
+
 
