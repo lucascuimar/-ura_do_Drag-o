@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "NPC/Sem convenio/Alfred, o mago gênio.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "febafa18f87b4afa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e18c4e535ea379c1",
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,17 +151,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "52193091827b9e4d",
+  "active": "1821e7f75af32656",
   "lastOpenFiles": [
-    "Z Imagem/Pasted image 20230212182615.png",
-    "Z Imagem/Pasted image 20230212182843.png",
-    "Z Imagem/Pasted image 20230212183540.png",
-    "Z Imagem/Pasted image 20230212183753.png",
-    "Z Imagem/Pasted image 20230212184404.png",
-    "Z Imagem/Pasted image 20230212184654.png",
-    "Z Imagem/Pasted image 20230212184532.png",
-    "Z Imagem/Rise of Nations_ Rise of Legends (Concept).jpeg",
-    "Z Imagem/Romance Proibido.jpeg",
-    "Z Imagem/The Chronicler dwarf - character design, Tomek Larek.jpeg"
+    "Index.md",
+    "Sem título.canvas",
+    "Index/Itens mágicos.md",
+    "Index/Facções.md",
+    "Facções/Sem convenio.md",
+    "NPC/Sem convenio/Alfred, o mago gênio.md",
+    "NPC/sem convenio.md",
+    "Facções/Cachorro leão.md",
+    "NPC/Cachorro leão/Mindart, o necromante.md",
+    "Z Imagem/Pasted image 20230212182615.png"
   ]
 }
