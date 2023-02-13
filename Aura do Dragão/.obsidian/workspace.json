@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "52193091827b9e4d",
+            "id": "febafa18f87b4afa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC/Sem convenio/Alfred, o mago gênio.md",
+                "file": "Facções/Pé de Pedra.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "febafa18f87b4afa",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Facções/Pé de Pedra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Facções/Pé de Pedra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Facções/Pé de Pedra.md"
+              }
             }
           }
         ]
@@ -151,17 +146,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1821e7f75af32656",
+  "active": "febafa18f87b4afa",
   "lastOpenFiles": [
-    "Index.md",
-    "Sem título.canvas",
-    "Index/Itens mágicos.md",
+    "NPC/Pé de Pedra/Tain.md",
+    "Facções/Pé de Pedra.md",
+    "NPC/Pé de Pedra/Velhino bibliotecario.md",
     "Index/Facções.md",
-    "Facções/Sem convenio.md",
+    "Index.md",
+    "Facções/zzzzz faccao.md",
     "NPC/Sem convenio/Alfred, o mago gênio.md",
-    "NPC/sem convenio.md",
-    "Facções/Cachorro leão.md",
-    "NPC/Cachorro leão/Mindart, o necromante.md",
-    "Z Imagem/Pasted image 20230212182615.png"
+    "Facções/Sem convenio.md",
+    "Sem título.canvas",
+    "Index/Itens mágicos.md"
   ]
 }
