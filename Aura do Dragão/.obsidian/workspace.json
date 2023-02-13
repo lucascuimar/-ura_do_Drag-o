@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Facções/Pé de Pedra.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Facções/Pé de Pedra.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Facções/Pé de Pedra.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Facções/Pé de Pedra.md"
+                "file": "Index.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "febafa18f87b4afa",
   "lastOpenFiles": [
-    "NPC/Pé de Pedra/Tain.md",
+    "Personagens/Caradelas, um bardo chamado maciota.md",
+    "NPC/Cachorro leão/milo bom barril, o ladino.md",
     "Facções/Pé de Pedra.md",
+    "NPC/Pé de Pedra/Tain.md",
     "NPC/Pé de Pedra/Velhino bibliotecario.md",
     "Index/Facções.md",
     "Index.md",
     "Facções/zzzzz faccao.md",
     "NPC/Sem convenio/Alfred, o mago gênio.md",
-    "Facções/Sem convenio.md",
-    "Sem título.canvas",
-    "Index/Itens mágicos.md"
+    "Facções/Sem convenio.md"
   ]
 }
