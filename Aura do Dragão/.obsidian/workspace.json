@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Facções/Adagas Mecanicas.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -58,7 +59,7 @@
             }
           },
           {
-            "id": "d88d67188b3e4236",
+            "id": "8371c14b8300d070",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -80,36 +81,46 @@
         "type": "tabs",
         "children": [
           {
-            "id": "94815fb621af4aae",
+            "id": "0389bd643931a657",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Facções/Adagas Mecanicas.md"
+              }
+            }
+          },
+          {
+            "id": "073c84aa31b887f3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Facções/Adagas Mecanicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "37fd4c2e6bac2db2",
+            "id": "4bc9c8aa86bb19be",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Facções/Adagas Mecanicas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e336d3efdc94659d",
+            "id": "0882ffbc6eb10cb8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -118,18 +129,9 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "0389bd643931a657",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Index.md"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -141,22 +143,21 @@
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false
     }
   },
   "active": "febafa18f87b4afa",
   "lastOpenFiles": [
-    "Personagens/Caradelas, um bardo chamado maciota.md",
-    "NPC/Cachorro leão/milo bom barril, o ladino.md",
-    "Facções/Pé de Pedra.md",
-    "NPC/Pé de Pedra/Tain.md",
-    "NPC/Pé de Pedra/Velhino bibliotecario.md",
+    "NPC/Adagas Mecanincas/Soldado de ferro.md",
+    "Facções/Adagas Mecanicas.md",
+    "NPC/Adagas Mecanincas/O Forja de guerra.md",
+    "NPC/Adagas Mecanincas/O Arquivista.md",
+    "NPC/Adagas Mecanincas/Dr. Meet, O Alquimista.md",
+    "NPC/Adagas Mecanincas/Halia Thronton, Dama da dor.md",
+    "NPC/Adagas Mecanincas/Asher, o supremo lider.md",
     "Index/Facções.md",
-    "Index.md",
-    "Facções/zzzzz faccao.md",
-    "NPC/Sem convenio/Alfred, o mago gênio.md",
-    "Facções/Sem convenio.md"
+    "Facções/Culto do monolho.md",
+    "Index.md"
   ]
 }
