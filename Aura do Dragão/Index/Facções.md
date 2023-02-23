@@ -1,5 +1,5 @@
 - [[Adagas Mecanicas]]
-- [[Culto do monolho]]
+- [[Culto do Monólho]]
 - [[Pé de Pedra]]
 - [[Red Drago (Guilda)]]
 - [[Cachorro leão]]

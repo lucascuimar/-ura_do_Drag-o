@@ -2,7 +2,7 @@
 
 ## Lore
 
-Guilda criada por um humano, um elfo, um halfling e um meio-orc. O sucesso foi seu acompanhante por muitos anos, mas por motivo pessoais dos integrantes a guilda foi separada. O elfo e o meio-orc saíram da guilda e não se tem mais noticias sobre eles, apenas o humano e o halfing permaneceram juntos na guilda. Mas em um combate mortal, o halfling ladino morreu em uma batalha onde deixou seu amigo em um eterno luto, fazendo seu coração se fechar. após 20 anos de em recluso total de meditação acredita-se que ele descobriu uma forma de trazer seu amigo de volta a vida. Não se sabe ao certo os planos dele, única coisa que se sabe é que ele busca pelo livro mais profanos de todos, o necronomicon.
+A guilda foi fundada por um grupo heterogêneo composto por um humano, um elfo, um halfling e um meio-orc, cujo sucesso foi acompanhado por muitos anos. Contudo, por razões pessoais, os integrantes se separaram, com o elfo e o meio-orc deixando a guilda sem dar notícias. Apenas o humano e o halfling permaneceram juntos, mas a vida dos aventureiros foi interrompida em um combate mortal que levou à morte do astuto halfling. O amigo humano nunca superou a perda e viveu em reclusão total por 20 anos, meditando incansavelmente e buscando uma maneira de trazer o amigo de volta à vida. Sua busca o levou ao caminho do necronomicon, um livro profano e perigoso. Os planos do humano são incertos, mas a única certeza é que ele fará de tudo para ter seu amigo de volta ao seu lado, custe o que custar.
 
 ## Caracteristica
 
@@ -12,7 +12,7 @@ Guilda criada por um humano, um elfo, um halfling e um meio-orc. O sucesso foi s
 - [[Ivor Starag, o warlock]]
 - [[Mindart, o necromante]]
 - [[Henk, o barbato]]
-- [[milo bom barril, o ladino]]
+- [[Milo bom barril, o ladino]]
 - [[Droop]]
 - [[Senhora Nupalie]]
 - [[Farlila]]

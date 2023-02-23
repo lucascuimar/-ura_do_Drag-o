@@ -3,9 +3,8 @@
 ## Lore
 
 
-## Caracteristica
-
-
 ## Membros
 
+
+## Caracteristicas
 

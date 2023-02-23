@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Facções/Adagas Mecanicas.md",
+                "file": "NPC/Adagas Mecanincas/Asher, o supremo lider.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Facções/Adagas Mecanicas.md"
+                "file": "NPC/Adagas Mecanincas/Asher, o supremo lider.md"
               }
             }
           },
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Facções/Adagas Mecanicas.md",
+                "file": "NPC/Adagas Mecanincas/Asher, o supremo lider.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Facções/Adagas Mecanicas.md",
+                "file": "NPC/Adagas Mecanincas/Asher, o supremo lider.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,15 +149,15 @@
   },
   "active": "febafa18f87b4afa",
   "lastOpenFiles": [
-    "NPC/Adagas Mecanincas/Soldado de ferro.md",
     "Facções/Adagas Mecanicas.md",
-    "NPC/Adagas Mecanincas/O Forja de guerra.md",
-    "NPC/Adagas Mecanincas/O Arquivista.md",
-    "NPC/Adagas Mecanincas/Dr. Meet, O Alquimista.md",
-    "NPC/Adagas Mecanincas/Halia Thronton, Dama da dor.md",
-    "NPC/Adagas Mecanincas/Asher, o supremo lider.md",
-    "Index/Facções.md",
-    "Facções/Culto do monolho.md",
-    "Index.md"
+    "Facções/Pé de Pedra.md",
+    "NPC/Pé de Pedra/Belgrim, o bibliotecario.md",
+    "NPC/Pé de Pedra/Tain, O sangue real.md",
+    "Facções/Culto do Monólho.md",
+    "Deuses/Tarin.md",
+    "Deuses/Monólho.md",
+    "Facções/Cachorro leão.md",
+    "NPC/Cachorro leão/Milo bom barril, o ladino.md",
+    "NPC/Adagas Mecanincas/Clarence corg, O Arquivista.md"
   ]
 }
