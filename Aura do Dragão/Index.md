@@ -6,5 +6,4 @@
 
 ## [[Itens mágicos]]
 
-## [[Linha do tempo]]
-
+## [[Linha do tempo.canvas]]
