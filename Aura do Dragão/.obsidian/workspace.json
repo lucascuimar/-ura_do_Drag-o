@@ -11,14 +11,12 @@
             "id": "febafa18f87b4afa",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Linha do tempo/Linha do tempo.canvas",
-                "viewState": {
-                  "x": 596.0883876098252,
-                  "y": 10.339557625593216,
-                  "zoom": -1.9999999999999996
-                }
+                "file": "Facções/Adagas Mecanicas.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -88,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linha do tempo/Linha do tempo.canvas"
+                "file": "Facções/Adagas Mecanicas.md"
               }
             }
           },
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linha do tempo/Linha do tempo.canvas",
+                "file": "Facções/Adagas Mecanicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linha do tempo/Linha do tempo.canvas",
+                "file": "Facções/Adagas Mecanicas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,12 +149,16 @@
   },
   "active": "febafa18f87b4afa",
   "lastOpenFiles": [
-    "Z Imagem/harptos-pr.webp",
+    "NPC/Adagas Mecanincas/Dr. Meet, O Alquimista.md",
+    "Facções/Adagas Mecanicas.md",
+    "NPC/Adagas Mecanincas/Halia Thronton, A dama da dor.md",
+    "Z Imagem/Dr. Meet.pdf",
+    "Index/Facções.md",
     "Index.md",
     "Linha do tempo/Linha do tempo.canvas",
+    "Z Imagem/harptos-pr.webp",
     "Linha do tempo/Linha do tempo.md",
     "NPC/Adagas Mecanincas/Asher, o supremo lider.md",
-    "Facções/Adagas Mecanicas.md",
     "Facções/Pé de Pedra.md",
     "NPC/Pé de Pedra/Belgrim, o bibliotecario.md",
     "NPC/Pé de Pedra/Tain, O sangue real.md",
