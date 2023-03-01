@@ -1,4 +1,4 @@
-# Informação
+ # Informação
 
 ![[photo_2023-02-21_22-00-12.jpg]]
 ## Lore
