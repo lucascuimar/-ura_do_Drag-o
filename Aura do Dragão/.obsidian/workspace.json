@@ -11,12 +11,14 @@
             "id": "febafa18f87b4afa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Facções/Adagas Mecanicas.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Linha do tempo/Linha do tempo.canvas",
+                "viewState": {
+                  "x": -145.7682294541421,
+                  "y": 291.8010010477423,
+                  "zoom": -0.6666666666666665
+                }
               }
             }
           }
@@ -86,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Facções/Adagas Mecanicas.md"
+                "file": "Linha do tempo/Linha do tempo.canvas"
               }
             }
           },
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Facções/Adagas Mecanicas.md",
+                "file": "Linha do tempo/Linha do tempo.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Facções/Adagas Mecanicas.md",
+                "file": "Linha do tempo/Linha do tempo.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,12 +151,12 @@
   },
   "active": "febafa18f87b4afa",
   "lastOpenFiles": [
-    "NPC/Adagas Mecanincas/Dr. Meet, O Alquimista.md",
+    "Index.md",
     "Facções/Adagas Mecanicas.md",
+    "NPC/Adagas Mecanincas/Dr. Meet, O Alquimista.md",
     "NPC/Adagas Mecanincas/Halia Thronton, A dama da dor.md",
     "Z Imagem/Dr. Meet.pdf",
     "Index/Facções.md",
-    "Index.md",
     "Linha do tempo/Linha do tempo.canvas",
     "Z Imagem/harptos-pr.webp",
     "Linha do tempo/Linha do tempo.md",
