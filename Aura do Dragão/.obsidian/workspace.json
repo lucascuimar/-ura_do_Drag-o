@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Facções/Red Drago (Guilda).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Facções/Red Drago (Guilda).md"
               }
             }
           },
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Facções/Red Drago (Guilda).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Facções/Red Drago (Guilda).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,11 +149,14 @@
   },
   "active": "febafa18f87b4afa",
   "lastOpenFiles": [
-    "Index/Locais.md",
+    "NPC/Red Dragon/Alagar, O Grande.md",
+    "Facções/Red Drago (Guilda).md",
+    "NPC/Red Dragon/Skaduchi, O sábio.md",
+    "Index/Facções.md",
     "Index.md",
+    "Index/Locais.md",
     "Locais/Hellgate keep.md",
     "Z_Imagem/photo_2023-03-01_19-39-50.jpg",
-    "Index/Facções.md",
     "Index/Personagens.md",
     "NPC/Adagas Mecanincas/Clarence corg, O Arquivista.md",
     "Facções/Adagas Mecanicas.md",
