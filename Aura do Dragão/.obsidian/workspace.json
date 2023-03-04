@@ -11,18 +11,30 @@
             "id": "febafa18f87b4afa",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Linha do tempo/Linha do tempo.canvas",
-                "viewState": {
-                  "x": 1168.9087029236375,
-                  "y": 341.88590824121843,
-                  "zoom": -0.33078870490695284
-                }
+                "file": "NPC/Pé de Pedra/os 5 guerreiros/Kili.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c40a2231e9271fe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Facções/Pé de Pedra.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linha do tempo/Linha do tempo.canvas"
+                "file": "Facções/Pé de Pedra.md"
               }
             }
           },
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linha do tempo/Linha do tempo.canvas",
+                "file": "Facções/Pé de Pedra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linha do tempo/Linha do tempo.canvas",
+                "file": "Facções/Pé de Pedra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,36 +161,38 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "febafa18f87b4afa",
+  "active": "c40a2231e9271fe3",
   "lastOpenFiles": [
-    "Index.md",
-    "Facções/Sem convenio.md",
+    "NPC/Pé de Pedra/os 5 guerreiros/Bombur.md",
+    "Facções/Pé de Pedra.md",
+    "NPC/Pé de Pedra/os 5 guerreiros/Bifur.md",
+    "NPC/Pé de Pedra/os 5 guerreiros/Gror.md",
+    "NPC/Pé de Pedra/os 5 guerreiros/Gloin.md",
+    "NPC/Pé de Pedra/os 5 guerreiros/Kili.md",
     "Index/Facções.md",
-    "NPC/Adagas Mecanincas/Dr. Meet, O Alquimista.md",
-    "Facções/Adagas Mecanicas.md",
+    "Index.md",
+    "NPC/Pé de Pedra/os 5 guerreiros",
+    "NPC/Pé de Pedra/Bofur, O fazendeiro.md",
+    "NPC/Pé de Pedra/Dwalin, O faz-arma.md",
+    "NPC/Red Dragon/Skaduchi, O sábio.md",
     "Facções/Red Drago (Guilda).md",
     "NPC/Red Dragon/Alagar, O Grande.md",
-    "NPC/Red Dragon/Skaduchi, O sábio.md",
+    "Index/Personagens.md",
+    "Index/Itens mágicos.md",
+    "Linha do tempo/Linha do tempo.canvas",
+    "Facções/Sem convenio.md",
+    "NPC/Adagas Mecanincas/Dr. Meet, O Alquimista.md",
+    "Facções/Adagas Mecanicas.md",
     "Index/Locais.md",
     "Locais/Hellgate keep.md",
     "Z_Imagem/photo_2023-03-01_19-39-50.jpg",
-    "Index/Personagens.md",
     "NPC/Adagas Mecanincas/Clarence corg, O Arquivista.md",
     "NPC/Adagas Mecanincas/Asher, o supremo lider.md",
-    "Linha do tempo/Linha do tempo.canvas",
     "Locais/Kherun.md",
     "Z_Imagem/download (1).jpeg",
     "NPC/Adagas Mecanincas/Halia Thronton, A dama da dor.md",
     "Z Imagem/Dr. Meet.pdf",
     "Z_Imagem/harptos-pr.webp",
-    "Linha do tempo/Linha do tempo.md",
-    "Facções/Pé de Pedra.md",
-    "NPC/Pé de Pedra/Belgrim, o bibliotecario.md",
-    "NPC/Pé de Pedra/Tain, O sangue real.md",
-    "Facções/Culto do Monólho.md",
-    "Deuses/Tarin.md",
-    "Deuses/Monólho.md",
-    "Facções/Cachorro leão.md",
-    "NPC/Cachorro leão/Milo bom barril, o ladino.md"
+    "Linha do tempo/Linha do tempo.md"
   ]
 }

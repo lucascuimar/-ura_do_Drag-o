@@ -14,10 +14,19 @@ Um anão comum do clã pé de pedra tem cerca de 1,2 metros de altura e uma cons
 
 ## Membros
 
+### Figuras importantes
+
 - [[Tain, O sangue real]]
 - [[Belgrim, o bibliotecario]]
-- [[O fazendeiro]]
-- [[O faz-arma]]
+- [[Bofur, O fazendeiro]]
+- [[Dwalin, O faz-arma]]
+### 5 Guerreiros mais fortes
+
+- [[Kili]]
+- [[Gloin]]
+- [[Gror]]
+- [[Bifur]]
+- [[Bombur]]
 
 ## Imagem
 
@@ -30,3 +39,43 @@ Um anão comum do clã pé de pedra tem cerca de 1,2 metros de altura e uma cons
 755 Guerreiros trabalhadores
 207 Não guerreiros Trabalhadores
 053 Sem habilidade.
+
+
+## A divisão dentro do forte
+
+1.  Rainha: Talarin
+2.  Braço Direito da Rainha: Durin
+3.  Mestre Bibliotecário: Balgrin
+4.  Mestre Fazendeiro: Bofur
+5.  Forja-Arma: Dwalin
+
+Guerreiros e Trabalhadores:
+
+1.  Capitão da Guarda: Fili
+2.  Soldados: Kili, Thorin, Gimli, Bifur, Bombur, Nori, Dori, Gloin, Oin, Ori, Gror
+3.  Mineiros: Bari, Buri, Brok, Grun, Nar, Krag
+4.  Ferreiros: Thrain, Nain, Thror, Fundin
+5.  Padeiros: Falin, Farin, Frerin
+6.  Armeiros: Narvi, Dain, Dane
+7.  Lenhadores: Fimbul, Throrin, Glorin, Grom
+8.  Caçadores: Dwalor, Thrain, Brog, Burin
+9.  Construtores: Haddur, Hrafn, Einar, Vifill, Grim
+10.  Pedreiros: Einarr, Hjalti, Hugi, Snorri, Regin
+11.  Mineiros de Carvão: Thrain, Thorin, Vifil, Asgrim
+12.  Metalúrgicos: Lofar, Sturla, Gudbrand, Ogmund
+13.  Escudeiros: Bergur, Hrothgar, Egil, Ingolf, Orlyg
+14.  Exploradores: Sigurd, Bjorn, Halldor, Snorri, Throstur
+15.  Ferreiros de Armas: Thjodolf, Thorkell, Grim, Hafgrim
+16.  Ferreiros de Armaduras: Arngeir, Erlend, Gudmundur, Thorsteinn
+17.  Fazendeiros: Hrolfur, Ketill, Oddur, Orn
+18.  Pescadores: Gunnar, Helgi, Hogni, Ingimundur
+19.  Cervejeiros: Thorbrand, Olaf, Skuli, Thorkell
+20.  Artesãos: Arne, Helgi, Kjartan, Skapti
+
+Trabalhadores:
+
+1.  Cozinheiros: Hugi, Gudrun, Inga, Svanhildur
+2.  Servos: Brynhildur, Dagmar, Eirikur, Gudny
+3.  Costureiras: Asdis, Dalla, Hrefna, Thora
+4.  Limpadores: Arngeir, Dagbjort, Hlin, Solveig
+
