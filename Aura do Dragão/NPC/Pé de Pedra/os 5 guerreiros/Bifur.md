@@ -6,3 +6,5 @@ Bárbaro Nível 4:
 -   Armadura de peles de animais
 -   Poções de cura
 -   Kit de caça e pesca
+
+![[Warhammer slayer fanart by Tygodym on DeviantArt.jpeg]]

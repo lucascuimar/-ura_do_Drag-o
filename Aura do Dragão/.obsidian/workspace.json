@@ -8,33 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "febafa18f87b4afa",
+            "id": "fb4b0b861c7a2fd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC/Pé de Pedra/os 5 guerreiros/Kili.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c40a2231e9271fe3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Facções/Pé de Pedra.md",
+                "file": "NPC/Pé de Pedra/os 5 guerreiros/Gror.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Facções/Pé de Pedra.md"
+                "file": "NPC/Pé de Pedra/os 5 guerreiros/Gror.md"
               }
             }
           },
@@ -110,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Facções/Pé de Pedra.md",
+                "file": "NPC/Pé de Pedra/os 5 guerreiros/Gror.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Facções/Pé de Pedra.md",
+                "file": "NPC/Pé de Pedra/os 5 guerreiros/Gror.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,16 +147,24 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c40a2231e9271fe3",
+  "active": "fb4b0b861c7a2fd1",
   "lastOpenFiles": [
-    "NPC/Pé de Pedra/os 5 guerreiros/Bombur.md",
-    "Facções/Pé de Pedra.md",
-    "NPC/Pé de Pedra/os 5 guerreiros/Bifur.md",
+    "Z_Imagem/download (2).jpeg",
+    "NPC/Pé de Pedra/os 5 guerreiros/Kili.md",
     "NPC/Pé de Pedra/os 5 guerreiros/Gror.md",
     "NPC/Pé de Pedra/os 5 guerreiros/Gloin.md",
-    "NPC/Pé de Pedra/os 5 guerreiros/Kili.md",
+    "NPC/Pé de Pedra/os 5 guerreiros/Bombur.md",
+    "NPC/Pé de Pedra/os 5 guerreiros/Bifur.md",
+    "Z_Imagem/DnD Race inspiration dump_ Dwarves, hillfolk with beards Vol_1.png",
+    "Z_Imagem/Warhammer slayer fanart by Tygodym on DeviantArt.jpeg",
+    "Z_Imagem/Rognus Sem-clã, anão bárbaro.jpeg",
+    "Z_Imagem/sergio-artigas-singles-2020-dwarf-copy.jpg",
+    "Z_Imagem/sergio-artigas-dwarven-archer-03.jpg",
+    "Facções/Pé de Pedra.md",
     "Index/Facções.md",
     "Index.md",
+    "Index/Locais.md",
+    "Locais/Fadelves.md",
     "NPC/Pé de Pedra/os 5 guerreiros",
     "NPC/Pé de Pedra/Bofur, O fazendeiro.md",
     "NPC/Pé de Pedra/Dwalin, O faz-arma.md",
@@ -183,7 +177,6 @@
     "Facções/Sem convenio.md",
     "NPC/Adagas Mecanincas/Dr. Meet, O Alquimista.md",
     "Facções/Adagas Mecanicas.md",
-    "Index/Locais.md",
     "Locais/Hellgate keep.md",
     "Z_Imagem/photo_2023-03-01_19-39-50.jpg",
     "NPC/Adagas Mecanincas/Clarence corg, O Arquivista.md",
@@ -192,7 +185,6 @@
     "Z_Imagem/download (1).jpeg",
     "NPC/Adagas Mecanincas/Halia Thronton, A dama da dor.md",
     "Z Imagem/Dr. Meet.pdf",
-    "Z_Imagem/harptos-pr.webp",
-    "Linha do tempo/Linha do tempo.md"
+    "Z_Imagem/harptos-pr.webp"
   ]
 }

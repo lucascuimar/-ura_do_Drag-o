@@ -7,3 +7,7 @@ Clérigo Nível 4:
 -   Armadura de malha
 -   Kit de primeiros socorros
 -   Poções de cura
+
+## Imagem
+
+![[download (2).jpeg]]

@@ -8,3 +8,6 @@ Costa da espada
 
 Norte
 	Cachorro-leão
+
+Leste
+	[[Fadelves]]

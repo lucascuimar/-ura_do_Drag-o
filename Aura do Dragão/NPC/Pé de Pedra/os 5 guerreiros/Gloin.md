@@ -7,3 +7,7 @@ Ranger Nível 4:
 -   Armadura de couro batido
 -   Kit de exploração
 -   Poções de cura
+
+## Imagem
+
+![[sergio-artigas-dwarven-archer-03.jpg]]
