@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC/Pé de Pedra/os 5 guerreiros/Gror.md",
+                "file": "Facções/Pé de Pedra.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPC/Pé de Pedra/os 5 guerreiros/Gror.md"
+                "file": "Facções/Pé de Pedra.md"
               }
             }
           },
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC/Pé de Pedra/os 5 guerreiros/Gror.md",
+                "file": "Facções/Pé de Pedra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPC/Pé de Pedra/os 5 guerreiros/Gror.md",
+                "file": "Facções/Pé de Pedra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +149,12 @@
   },
   "active": "fb4b0b861c7a2fd1",
   "lastOpenFiles": [
-    "Z_Imagem/download (2).jpeg",
     "NPC/Pé de Pedra/os 5 guerreiros/Kili.md",
+    "Facções/Pé de Pedra.md",
+    "Index/Facções.md",
+    "Index.md",
     "NPC/Pé de Pedra/os 5 guerreiros/Gror.md",
+    "Z_Imagem/download (2).jpeg",
     "NPC/Pé de Pedra/os 5 guerreiros/Gloin.md",
     "NPC/Pé de Pedra/os 5 guerreiros/Bombur.md",
     "NPC/Pé de Pedra/os 5 guerreiros/Bifur.md",
@@ -160,9 +163,6 @@
     "Z_Imagem/Rognus Sem-clã, anão bárbaro.jpeg",
     "Z_Imagem/sergio-artigas-singles-2020-dwarf-copy.jpg",
     "Z_Imagem/sergio-artigas-dwarven-archer-03.jpg",
-    "Facções/Pé de Pedra.md",
-    "Index/Facções.md",
-    "Index.md",
     "Index/Locais.md",
     "Locais/Fadelves.md",
     "NPC/Pé de Pedra/os 5 guerreiros",

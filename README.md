@@ -1,2 +1,2 @@
 # Áura do Dragão
-Facelitação visual do universo de "Áura do dragão", um mundo e campanha RPG criado para fins de diversão.
+Facilitação visual do universo de 'Áura do Dragão', um mundo e campanha de RPG criados para fins de diversão.
