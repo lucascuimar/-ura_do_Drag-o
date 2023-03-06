@@ -9,4 +9,4 @@ Guerreiro Nível 4:
 
 ## Imagem
 
-![[DnD Race inspiration dump_ Dwarves, hillfolk with beards Vol_1.png]]
+![[35697b69-8635-4263-b5da-e2af9cf74d55.jpg]]

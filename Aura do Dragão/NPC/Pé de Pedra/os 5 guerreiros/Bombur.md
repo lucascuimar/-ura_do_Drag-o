@@ -9,4 +9,4 @@ Guerreiro Nível 4:
 
 ## Imagem
 
-![[sergio-artigas-singles-2020-dwarf-copy.jpg]]
+![[4b42674b-c3cb-4a57-bacf-8d3be3c843c2.jpg]]

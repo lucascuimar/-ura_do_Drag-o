@@ -7,4 +7,6 @@ Bárbaro Nível 4:
 -   Poções de cura
 -   Kit de caça e pesca
 
-![[Warhammer slayer fanart by Tygodym on DeviantArt.jpeg]]
+## Imagem
+
+![[2fe81a4e-66d0-4c7e-a63d-7b3ae0753010.jpg]]

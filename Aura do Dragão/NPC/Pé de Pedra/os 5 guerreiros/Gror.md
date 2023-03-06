@@ -10,4 +10,4 @@ Clérigo Nível 4:
 
 ## Imagem
 
-![[download (2).jpeg]]
+![[1ed6a993-2d09-41bd-aa94-0b652901cd79.jpg]]

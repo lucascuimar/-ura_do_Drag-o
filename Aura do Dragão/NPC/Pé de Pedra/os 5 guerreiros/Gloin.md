@@ -10,4 +10,4 @@ Ranger Nível 4:
 
 ## Imagem
 
-![[sergio-artigas-dwarven-archer-03.jpg]]
+![[115f8dd8-a6e7-4a30-904c-324373cb4b51.jpg]]
