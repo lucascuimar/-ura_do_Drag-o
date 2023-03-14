@@ -19,7 +19,7 @@ As Adagas Mecânicas surgiram em um momento de oportunidade no mundo, ganhando c
 
 ## Caracteristicas
 
-É comum ver que aqueles que entram nas Adagas Mecânicas acabam aceitando de bom grado todas as formas de tecnologia, especialmente aqueles que não têm habilidades mágicas. Entre os dessa facção a um dialeto unico, onde eles se refere aos sem habilidade mágica como os [[não-magicos]]. 
+É comum ver que aqueles que entram nas Adagas Mecânicas acabam aceitando de bom grado todas as formas de tecnologia, especialmente aqueles que não têm habilidades mágicas. Entre os dessa facção a um dialeto unico, onde eles se refere aos sem habilidade mágica como os [[Não-magicos]]. 
 
 ### Energia
 

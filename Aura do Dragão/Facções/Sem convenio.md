@@ -1,3 +1,4 @@
 - [[Alfred, o mago gênio]]
--  Wolfgar
+-  [[Não-magicos]] 
+- Wolfgar
 - 

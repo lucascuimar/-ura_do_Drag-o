@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC/Sem convenio/Alfred, o mago gênio.md",
+                "file": "Facções/Culto do Monólho.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40a8e84b77de6020",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPC/Sem convenio/Alfred, o mago gênio.md"
+                "file": "Index.md"
               }
             }
           },
@@ -96,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC/Sem convenio/Alfred, o mago gênio.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPC/Sem convenio/Alfred, o mago gênio.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,14 +161,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "fb4b0b861c7a2fd1",
+  "active": "40a8e84b77de6020",
   "lastOpenFiles": [
-    "Z_Imagem/d17351f9-71f9-44c9-85f9-bbe6e563ae36.jpg",
-    "Facções/Sem convenio.md",
-    "NPC/Culto do monolho/Thor-Baltar.md",
-    "Facções/Culto do Monólho.md",
+    "Facções/Ilithidis.md",
     "Index/Facções.md",
     "Index.md",
+    "Linha do tempo/Linha do tempo.canvas",
+    "Z_Imagem/1d2bbf7b-77fb-466e-a98e-c3934e4d38c3.jpg",
+    "NPC/Sem convenio/Não-magicos.md",
+    "Facções/Sem convenio.md",
+    "Facções/Adagas Mecanicas.md",
+    "Facções/Culto do Monólho.md",
+    "NPC/Sem convenio/Alfred, o mago gênio.md",
+    "Z_Imagem/d17351f9-71f9-44c9-85f9-bbe6e563ae36.jpg",
+    "NPC/Culto do monolho/Thor-Baltar.md",
     "NPC/Culto do monolho",
     "Facções/Pé de Pedra.md",
     "NPC/Pé de Pedra/Dwalin, O faz-arma.md",
@@ -176,18 +196,11 @@
     "Z_Imagem/1ed6a993-2d09-41bd-aa94-0b652901cd79.jpg",
     "Z_Imagem/115f8dd8-a6e7-4a30-904c-324373cb4b51.jpg",
     "Z_Imagem/35697b69-8635-4263-b5da-e2af9cf74d55.jpg",
-    "Z_Imagem/1d2bbf7b-77fb-466e-a98e-c3934e4d38c3.jpg",
     "Z_Imagem/download (2).jpeg",
     "Z_Imagem/DnD Race inspiration dump_ Dwarves, hillfolk with beards Vol_1.png",
     "Z_Imagem/Warhammer slayer fanart by Tygodym on DeviantArt.jpeg",
-    "Z_Imagem/Rognus Sem-clã, anão bárbaro.jpeg",
     "Index/Locais.md",
-    "Locais/Fadelves.md",
     "NPC/Pé de Pedra/os 5 guerreiros",
-    "NPC/Red Dragon/Skaduchi, O sábio.md",
-    "Facções/Red Drago (Guilda).md",
-    "NPC/Red Dragon/Alagar, O Grande.md",
-    "Linha do tempo/Linha do tempo.canvas",
     "Z Imagem/Dr. Meet.pdf"
   ]
 }
