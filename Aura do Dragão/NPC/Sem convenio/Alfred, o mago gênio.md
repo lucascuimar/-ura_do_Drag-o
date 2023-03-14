@@ -6,4 +6,6 @@ Abençoado por Azuth, deus dos magos, pelo conhecimento de forjar itens mágicos
 
 ## Imagem
 
+![[d17351f9-71f9-44c9-85f9-bbe6e563ae36.jpg]]
+
 ![[Radagahst.jpeg]]

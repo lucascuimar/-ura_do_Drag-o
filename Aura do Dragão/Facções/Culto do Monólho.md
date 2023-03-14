@@ -8,6 +8,7 @@ Em todos os cantos do universo, há aqueles que escolhem reverenciar os Grandes 
 
 ## Membros
 
+- [[Thor-Baltar]]
 
 ## Caracteristicas
 
