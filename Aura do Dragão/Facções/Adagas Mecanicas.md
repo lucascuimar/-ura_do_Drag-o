@@ -9,13 +9,19 @@ As Adagas Mecânicas surgiram em um momento de oportunidade no mundo, ganhando c
 ## Membros
 
 - [[Asher, o supremo lider ]]
+
 - [[Halia Thronton, A dama da dor]]
 - [[Dr. Meet, O Alquimista]]
 - [[Clarence corg, O Arquivista]]
 - [[Balthazar, O Forja de guerra]]
+
 - [[Soldado de ferro]]
 - Aranhas de aço
 - Cidadela
+
+
+
+
 
 ## Caracteristicas
 
