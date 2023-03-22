@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Facções/Adagas Mecanicas.md",
+                "file": "Facções/Pé de Pedra.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Facções/Adagas Mecanicas.md"
+                "file": "Facções/Pé de Pedra.md"
               }
             }
           },
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Facções/Adagas Mecanicas.md",
+                "file": "Facções/Pé de Pedra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Facções/Adagas Mecanicas.md",
+                "file": "Facções/Pé de Pedra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,20 +149,21 @@
   },
   "active": "40a8e84b77de6020",
   "lastOpenFiles": [
+    "NPC/Pé de Pedra/os 5 guerreiros/Gron.md",
+    "Facções/Pé de Pedra.md",
     "Index/Facções.md",
-    "Facções/Culto do Monólho.md",
     "Index.md",
+    "Facções/Adagas Mecanicas.md",
+    "Facções/Culto do Monólho.md",
     "Linha do tempo/Linha do tempo.canvas",
     "Facções/Ilithidis.md",
     "Z_Imagem/1d2bbf7b-77fb-466e-a98e-c3934e4d38c3.jpg",
     "NPC/Sem convenio/Não-magicos.md",
     "Facções/Sem convenio.md",
-    "Facções/Adagas Mecanicas.md",
     "NPC/Sem convenio/Alfred, o mago gênio.md",
     "Z_Imagem/d17351f9-71f9-44c9-85f9-bbe6e563ae36.jpg",
     "NPC/Culto do monolho/Thor-Baltar.md",
     "NPC/Culto do monolho",
-    "Facções/Pé de Pedra.md",
     "NPC/Pé de Pedra/Dwalin, O faz-arma.md",
     "NPC/Pé de Pedra/Bofur, O fazendeiro.md",
     "NPC/Pé de Pedra/Belgrim, o bibliotecario.md",
@@ -175,7 +176,6 @@
     "NPC/Pé de Pedra/os 5 guerreiros/Bombur.md",
     "NPC/Pé de Pedra/os 5 guerreiros/Kili.md",
     "NPC/Pé de Pedra/os 5 guerreiros/Gloin.md",
-    "NPC/Pé de Pedra/os 5 guerreiros/Gror.md",
     "NPC/Pé de Pedra/os 5 guerreiros/Bifur.md",
     "Z_Imagem/4b42674b-c3cb-4a57-bacf-8d3be3c843c2.jpg",
     "Z_Imagem/2fe81a4e-66d0-4c7e-a63d-7b3ae0753010.jpg",

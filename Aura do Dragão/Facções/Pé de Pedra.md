@@ -24,7 +24,7 @@ Um anão comum do clã pé de pedra tem cerca de 1,2 metros de altura e uma cons
 
 - [[Kili]]
 - [[Gloin]]
-- [[Gror]]
+- [[Gron]]
 - [[Bifur]]
 - [[Bombur]]
 
