@@ -14,6 +14,8 @@ A partir desse momento, Skaduchi abraçou sua natureza híbrida e começou a usa
 
 ## Imagem
 
+![[Pasted image 20230326202655.png]]
+
 ![[Dungeons & Dragons_ Tips For Playing A Kenku.png]]
 
 ## Ficha
