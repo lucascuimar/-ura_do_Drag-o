@@ -13,11 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "NPC/Sem convenio/Baba Yaga.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Baba Yaga"
             }
           }
         ]
@@ -40,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -55,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
             }
           },
           {
@@ -63,7 +69,19 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "e2f3fd51162bd1db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -86,8 +104,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
-              }
+                "file": "NPC/Sem convenio/Baba Yaga.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Baba Yaga"
             }
           },
           {
@@ -96,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "NPC/Sem convenio/Baba Yaga.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +124,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Baba Yaga"
             }
           },
           {
@@ -113,10 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "NPC/Sem convenio/Baba Yaga.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Baba Yaga"
             }
           },
           {
@@ -127,7 +151,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           }
         ],
@@ -149,11 +175,12 @@
   },
   "active": "40a8e84b77de6020",
   "lastOpenFiles": [
+    "Index.md",
+    "NPC/Sem convenio/Baba Yaga.md",
     "NPC/Red Dragon/Skaduchi, O sábio.md",
     "Z_Imagem/Pasted image 20230326202655.png",
     "Facções/Red Drago (Guilda).md",
     "Index/Facções.md",
-    "Index.md",
     "Facções/Pé de Pedra.md",
     "NPC/Pé de Pedra/os 5 guerreiros/Gron.md",
     "Facções/Adagas Mecanicas.md",
@@ -179,7 +206,6 @@
     "NPC/Pé de Pedra/os 5 guerreiros/Bombur.md",
     "NPC/Pé de Pedra/os 5 guerreiros/Kili.md",
     "NPC/Pé de Pedra/os 5 guerreiros/Gloin.md",
-    "NPC/Pé de Pedra/os 5 guerreiros/Bifur.md",
     "Z_Imagem/4b42674b-c3cb-4a57-bacf-8d3be3c843c2.jpg",
     "Z_Imagem/2fe81a4e-66d0-4c7e-a63d-7b3ae0753010.jpg",
     "Z_Imagem/1ed6a993-2d09-41bd-aa94-0b652901cd79.jpg",
