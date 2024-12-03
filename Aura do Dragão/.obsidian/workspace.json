@@ -11,10 +11,17 @@
             "id": "40a8e84b77de6020",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "canvas",
+              "state": {
+                "file": "Linha do tempo/Linha do tempo.canvas",
+                "viewState": {
+                  "x": 448.1556953796629,
+                  "y": 6.691021045312266,
+                  "zoom": -0.12304509243291249
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Linha do tempo"
             }
           }
         ]
@@ -98,9 +105,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "NPC/Sem convenio/Baba Yaga.md"
+              },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de Baba Yaga"
             }
           },
           {
@@ -109,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NPC/Sem convenio/Baba Yaga.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Links inversos para Baba Yaga"
             }
           },
           {
@@ -127,11 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NPC/Sem convenio/Baba Yaga.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para Baba Yaga"
             }
           },
           {
@@ -176,11 +187,13 @@
   },
   "active": "40a8e84b77de6020",
   "lastOpenFiles": [
+    "Aura do dragão - Mesa de RPG.pages",
+    "cópia de Aura do dragão - Mesa de RPG.pages",
+    "Index.md",
+    "NPC/Sem convenio/Baba Yaga.md",
     "NPC/Adagas Mecanincas/Asher, o supremo lider.md",
     "NPC/Red Dragon/Skaduchi, O sábio.md",
     "NPC/Red Dragon/Alagar, O Grande.md",
-    "NPC/Sem convenio/Baba Yaga.md",
-    "Index.md",
     "Z_Imagem/Pasted image 20230326202655.png",
     "Facções/Red Drago (Guilda).md",
     "Index/Facções.md",
@@ -206,7 +219,6 @@
     "Personagens/Hermak.md",
     "Personagens/Caradelas, um bardo chamado maciota.md",
     "Index/Personagens.md",
-    "NPC/Pé de Pedra/os 5 guerreiros/Bombur.md",
     "Z_Imagem/4b42674b-c3cb-4a57-bacf-8d3be3c843c2.jpg",
     "Z_Imagem/2fe81a4e-66d0-4c7e-a63d-7b3ae0753010.jpg",
     "Z_Imagem/1ed6a993-2d09-41bd-aa94-0b652901cd79.jpg",
