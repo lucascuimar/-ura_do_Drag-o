@@ -8,3 +8,7 @@ Aqui você encontrará informações atualizadas e precisas sobre tudo que é ne
 Todos são bem-vindos para contribuir com informações ao nosso wiki. Para garantir que as informações sejam precisas e úteis, nosso sistema de moderação revisa todas as contribuições antes de serem publicadas.
 
 Estamos animados para ver como nossos jogadores irão explorar o mundo de "Áura do Dragão" usando nosso wiki. Aproveite a jornada e divirta-se explorando!
+
+----
+Agradeço se achar algum erro e poder me reportar.
+Obrigado e abraços.

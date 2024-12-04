@@ -11,17 +11,14 @@
             "id": "714a6b69db6b4637",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Aura do Dragão/Linha do tempo/Linha do tempo.canvas",
-                "viewState": {
-                  "x": 682.7413793103448,
-                  "y": -202.1930353869804,
-                  "zoom": -0.7042614290935008
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Linha do tempo"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -143,6 +140,18 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "6cf4af0c627da9b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de README"
+            }
           }
         ],
         "currentTab": 3
@@ -164,9 +173,9 @@
   },
   "active": "714a6b69db6b4637",
   "lastOpenFiles": [
+    "Aura do Dragão/Linha do tempo/Linha do tempo.canvas",
     "Aura do Dragão/Index.md",
     "Aura do Dragão/Z_Imagem/harptos-pr.webp",
-    "Aura do Dragão/Linha do tempo/Linha do tempo.canvas",
     "Aura do Dragão/Personagens/Talarin, A rainha.md",
     "Aura do Dragão/Personagens/Sarek, O come carne.md",
     "Aura do Dragão/Personagens/Hermak.md",
