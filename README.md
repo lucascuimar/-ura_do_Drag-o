@@ -9,6 +9,3 @@ Todos são bem-vindos para contribuir com informações ao nosso wiki. Para gara
 
 Estamos animados para ver como nossos jogadores irão explorar o mundo de "Áura do Dragão" usando nosso wiki. Aproveite a jornada e divirta-se explorando!
 
-----
-Agradeço se achar algum erro e poder me reportar.
-Obrigado e abraços.
