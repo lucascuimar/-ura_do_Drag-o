@@ -1,27 +1,20 @@
 {
   "main": {
-    "id": "a4a25405cedc8d48",
+    "id": "ee3793a6d7668837",
     "type": "split",
     "children": [
       {
-        "id": "4b2aa74ec3686623",
+        "id": "9135d56003955868",
         "type": "tabs",
         "children": [
           {
-            "id": "714a6b69db6b4637",
+            "id": "c4fe0c8933178355",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Aura do Dragão/Linha do tempo/Linha do tempo.canvas",
-                "viewState": {
-                  "x": 682.7413793103448,
-                  "y": -202.1930353869804,
-                  "zoom": -0.7042614290935008
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Linha do tempo"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
         ]
@@ -30,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3a93786dd378f95d",
+    "id": "077345316b79c205",
     "type": "split",
     "children": [
       {
-        "id": "e9bfff3a40507e99",
+        "id": "a74a3dca13ad904a",
         "type": "tabs",
         "children": [
           {
-            "id": "d15f66b510a345b9",
+            "id": "bd60ba9d8c43c1f2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +43,7 @@
             }
           },
           {
-            "id": "7d2f33c3217ad291",
+            "id": "2cd869e09547ba2d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +60,7 @@
             }
           },
           {
-            "id": "5fff905d820492ab",
+            "id": "3c0743cd646b2b03",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -83,15 +76,15 @@
     "width": 300
   },
   "right": {
-    "id": "1b55b217af62ab89",
+    "id": "0b0748b5a415c8bf",
     "type": "split",
     "children": [
       {
-        "id": "bd57d2ad19613a27",
+        "id": "b41469c7b5151f48",
         "type": "tabs",
         "children": [
           {
-            "id": "51f0266ba7230907",
+            "id": "3b570f582c3819dc",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -109,7 +102,7 @@
             }
           },
           {
-            "id": "f6f8537384f137c4",
+            "id": "cd46b9bbac0b3058",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -122,7 +115,7 @@
             }
           },
           {
-            "id": "ec2a019fab1bd0f3",
+            "id": "980f15449af4fafa",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,7 +128,17 @@
             }
           },
           {
-            "id": "2b3f2fed22d5617c",
+            "id": "cbe1f11c5d642294",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "bb0c15edf715bafa",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -145,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -162,28 +165,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "714a6b69db6b4637",
+  "active": "bd60ba9d8c43c1f2",
   "lastOpenFiles": [
-    "Aura do Dragão/Index.md",
-    "Aura do Dragão/Z_Imagem/harptos-pr.webp",
-    "Aura do Dragão/Linha do tempo/Linha do tempo.canvas",
-    "Aura do Dragão/Personagens/Talarin, A rainha.md",
-    "Aura do Dragão/Personagens/Sarek, O come carne.md",
-    "Aura do Dragão/Personagens/Hermak.md",
-    "Aura do Dragão/Personagens/Caradelas, um bardo chamado maciota.md",
     "README.md",
     "LICENSE",
     "Aura do Dragão/Z_Imagem/sergio-artigas-singles-2020-dwarf-copy.jpg",
     "Aura do Dragão/Z_Imagem/sergio-artigas-dwarven-archer-03.jpg",
-    "Aura do Dragão/Z_Imagem/Warhammer slayer fanart by Tygodym on DeviantArt.jpeg",
-    "Aura do Dragão/Z_Imagem/The Chronicler dwarf - character design, Tomek Larek.jpeg",
-    "Aura do Dragão/Z_Imagem/Romance Proibido.jpeg",
-    "Aura do Dragão/Z_Imagem/Rise of Nations_ Rise of Legends (Concept).jpeg",
-    "Aura do Dragão/Z_Imagem/Radagahst.jpeg",
     "Aura do Dragão/Z_Imagem/photo_2023-03-01_19-39-50.jpg",
     "Aura do Dragão/Z_Imagem/photo_2023-02-21_22-08-29.jpg",
-    "Aura do Dragão/Z_Imagem",
-    "Aura do Dragão/Personagens",
+    "Aura do Dragão/Z_Imagem/photo_2023-02-21_22-00-19.jpg",
+    "Aura do Dragão/Z_Imagem/photo_2023-02-21_22-00-15.jpg",
+    "Aura do Dragão/Z_Imagem/photo_2023-02-21_22-00-12.jpg",
+    "Aura do Dragão/Z_Imagem/photo_2023-02-12_22-58-45.jpg",
+    "Aura do Dragão/Z_Imagem/photo_2023-02-12_22-57-18.jpg",
+    "Aura do Dragão/Z_Imagem/photo_2023-02-12_22-55-13.jpg",
     "Aura do Dragão/NPC/Pé de Pedra/os 5 guerreiros/Kili.md",
     "Aura do Dragão/NPC/Pé de Pedra/os 5 guerreiros/Gron.md",
     "Aura do Dragão/NPC/Pé de Pedra/os 5 guerreiros/Gloin.md",
@@ -194,21 +189,30 @@
     "Aura do Dragão/NPC/Sem convenio/Alfred, o mago gênio.md",
     "Aura do Dragão/NPC/Red Dragon/Skaduchi, O sábio.md",
     "Aura do Dragão/NPC/Red Dragon/Alagar, O Grande.md",
-    "Aura do Dragão/NPC/Pé de Pedra/Tain, O sangue real.md",
     "Aura do Dragão/NPC/Pé de Pedra/os 5 guerreiros",
+    "Aura do Dragão/NPC/Pé de Pedra/Tain, O sangue real.md",
     "Aura do Dragão/NPC/Pé de Pedra/Dwalin, O faz-arma.md",
     "Aura do Dragão/NPC/Pé de Pedra/Bofur, O fazendeiro.md",
     "Aura do Dragão/NPC/Pé de Pedra/Belgrim, o bibliotecario.md",
     "Aura do Dragão/NPC/Piratas Naltilos/Kaida, O imadiato.md",
     "Aura do Dragão/NPC/Culto do monolho/Thor-Baltar.md",
+    "Aura do Dragão/NPC/Cachorro leão/milo bom barril, o ladino.md",
     "Aura do Dragão/NPC/Cachorro leão/Senhora Nupalie.md",
     "Aura do Dragão/NPC/Cachorro leão/Mindart, o necromante.md",
-    "Aura do Dragão/NPC/Cachorro leão/milo bom barril, o ladino.md",
+    "Aura do Dragão/NPC/Cachorro leão/Ivor Starag, o warlock.md",
+    "Aura do Dragão/NPC/Cachorro leão/Henk, o barbato.md",
+    "Aura do Dragão/NPC/Cachorro leão/Farlila.md",
+    "Aura do Dragão/NPC/Cachorro leão/Droop.md",
+    "Aura do Dragão/NPC/Cachorro leão/Drock.md",
+    "Aura do Dragão/NPC/Adagas Mecanincas/Soldado de ferro.md",
     "Aura do Dragão/NPC/Sem convenio",
     "Aura do Dragão/NPC/Red Dragon",
     "Aura do Dragão/NPC/Pé de Pedra",
     "Aura do Dragão/NPC/Piratas Naltilos",
     "Aura do Dragão/NPC/Culto do monolho",
-    "Aura do Dragão/NPC/Cachorro leão"
+    "Aura do Dragão/NPC/Cachorro leão",
+    "Aura do Dragão/NPC/Adagas Mecanincas",
+    "Aura do Dragão/Linha do tempo/Linha do tempo.canvas",
+    "Aura do Dragão/Z_Imagem"
   ]
 }
