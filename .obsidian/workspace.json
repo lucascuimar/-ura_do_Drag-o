@@ -11,10 +11,14 @@
             "id": "c4fe0c8933178355",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Aura do Dragão/Index/Personagens.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Personagens"
             }
           }
         ]
@@ -165,8 +169,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd60ba9d8c43c1f2",
+  "active": "c4fe0c8933178355",
   "lastOpenFiles": [
+    "Aura do Dragão/Personagens/Hermak.md",
+    "Aura do Dragão/Index/Personagens.md",
+    "Aura do Dragão/Personagens/Talarin, A rainha.md",
+    "Aura do Dragão/Personagens/Sarek, O come carne.md",
+    "Aura do Dragão/Personagens/Caradelas, um bardo chamado maciota.md",
+    "Aura do Dragão/Index.md",
+    "Aura do Dragão/Linha do tempo/Linha do tempo.canvas",
+    "Aura do dragão - Mesa de RPG.pages.sb-63363b0b-OILBQw",
+    "Aura do dragão - Mesa de RPG.pages",
     "README.md",
     "LICENSE",
     "Aura do Dragão/Z_Imagem/sergio-artigas-singles-2020-dwarf-copy.jpg",
@@ -199,20 +212,11 @@
     "Aura do Dragão/NPC/Cachorro leão/milo bom barril, o ladino.md",
     "Aura do Dragão/NPC/Cachorro leão/Senhora Nupalie.md",
     "Aura do Dragão/NPC/Cachorro leão/Mindart, o necromante.md",
-    "Aura do Dragão/NPC/Cachorro leão/Ivor Starag, o warlock.md",
-    "Aura do Dragão/NPC/Cachorro leão/Henk, o barbato.md",
-    "Aura do Dragão/NPC/Cachorro leão/Farlila.md",
-    "Aura do Dragão/NPC/Cachorro leão/Droop.md",
-    "Aura do Dragão/NPC/Cachorro leão/Drock.md",
-    "Aura do Dragão/NPC/Adagas Mecanincas/Soldado de ferro.md",
     "Aura do Dragão/NPC/Sem convenio",
     "Aura do Dragão/NPC/Red Dragon",
     "Aura do Dragão/NPC/Pé de Pedra",
     "Aura do Dragão/NPC/Piratas Naltilos",
     "Aura do Dragão/NPC/Culto do monolho",
-    "Aura do Dragão/NPC/Cachorro leão",
-    "Aura do Dragão/NPC/Adagas Mecanincas",
-    "Aura do Dragão/Linha do tempo/Linha do tempo.canvas",
-    "Aura do Dragão/Z_Imagem"
+    "Aura do Dragão/NPC/Cachorro leão"
   ]
 }
